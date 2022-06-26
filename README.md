@@ -1,2 +1,2 @@
 # Logica-em-Java
-Apresento a resolução de uma lista de exercícios de lógica de programação, resolvidos através da linguagem Java.
+Lista de exercícios de lógica de programação resolvidos com a linguagem Java.
